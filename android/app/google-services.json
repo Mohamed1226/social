@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908717740661",
+    "project_id": "manchatting-d7407",
+    "storage_bucket": "manchatting-d7407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908717740661:android:bebc1f53d692adef865e3c",
+        "android_client_info": {
+          "package_name": "com.example.man_chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908717740661-t65v0oiul7r1tjdutiep6dvseer3jcuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.man_chatting",
+            "certificate_hash": "5e2a89a6471b37d6c0d5f046ddfeec008c7074a0"
+          }
+        },
+        {
+          "client_id": "908717740661-8isiv7gjrg0pu6kb9jg7cuulj1caa3f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmT2g-MZgOLmsO4L2lrx6rkTdxv_DMfmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908717740661-8isiv7gjrg0pu6kb9jg7cuulj1caa3f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
